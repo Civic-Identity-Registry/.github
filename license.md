@@ -1,5 +1,5 @@
 CIVIC IDENTITY REGISTRY LICENSE (CIRL)  
-Version 1.0, 2024
+Version 1.1, 2024
 
 Copyright (c) 2024, Administrator of the Civic Identity Registry (CIR).
 

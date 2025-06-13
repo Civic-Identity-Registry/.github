@@ -39,6 +39,6 @@ We welcome contributions from the community! If you're interested in contributin
     <sub>Built with ❤️ by the CIR Team</sub>
   </p>
   <p>
-    <sub> 2024 Civic Identity Registry. All Rights Reserved.</sub>
+    <sub> 2025 Civic Identity Registry. All Rights Reserved.</sub>
   </p>
 </div>
